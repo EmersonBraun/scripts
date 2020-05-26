@@ -41,5 +41,16 @@ function main () {
   fi
 }
 
-main
+proxy_dialog
 exit
+
+# create launch
+# sudo apt install gnome-panel
+# if en: 
+# gnome-desktop-item-edit ~/Desktop/ --create-new
+# if pt-br
+# gnome-desktop-item-edit ~/'Área de Trabalho'/ --create-new
+# select icon, 
+# select type (aplicativo, aplicativo, terminal, localização)
+# select name from aplication
+# give comment (optional)
